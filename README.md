@@ -20,11 +20,11 @@ For more details, please click [this link]() to view the slides of Final Project
 In the starter code of this repository, we have provided a shell script for downloading and extracting the dataset for this assignment. For Linux users, simply use the following command.
 
     bash ./get_dataset.sh
-The shell script will automatically download the dataset and store the data in a folder called `food_data`. Note that this command by default only works on Linux. If you are using other operating systems, you should download the dataset from [this link](https://drive.google.com) and unzip the compressed file manually.
+The shell script will automatically download the dataset and store the data in a folder called `skull`. Note that this command by default only works on Linux. If you are using other operating systems, you should download the dataset from [this link](https://drive.google.com/file/d/1i2MlS-eAkx0bFFKirSEmQyp5_FIPJO7p/view?fbclid=IwAR3-xGO3EOTQBoTR_PtCAlHIVK_QxMz-WmzoiZrSC8PWsdM1k0xGU5HW6vg) and unzip the compressed file manually.
 
 > ⚠️ ***IMPORTANT NOTE*** ⚠️  
 > 1. Please do not disclose the dataset! Also, do not upload your get_dataset.sh to your (public) Github.
-> 2. You should keep a copy of the dataset only in your local machine. **DO NOT** upload the dataset to this remote repository. If you extract the dataset manually, be sure to put them in a folder called `food_data` under the root directory of your local repository so that it will be included in the default `.gitignore` file.
+> 2. You should keep a copy of the dataset only in your local machine. **DO NOT** upload the dataset to this remote repository. If you extract the dataset manually, be sure to put them in a folder called `skull` under the root directory of your local repository so that it will be included in the default `.gitignore` file.
 
 > 🆕 ***NOTE***  
 > For the sake of conformity, please use the `python3` command to call your `.py` files in all your shell scripts. Do not use `python` or other aliases, otherwise your commands may fail in our autograding scripts.
