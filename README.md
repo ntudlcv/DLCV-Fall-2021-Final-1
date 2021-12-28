@@ -29,6 +29,16 @@ The shell script will automatically download the dataset and store the data in a
 > 🆕 ***NOTE***  
 > For the sake of conformity, please use the `python3` command to call your `.py` files in all your shell scripts. Do not use `python` or other aliases, otherwise your commands may fail in our autograding scripts.
 
+### Evaluation Code
+In the starter code of this repository, we have provided a python script for evaluating the results for this project. For Linux users, use the following command to evaluate the results of the sample submission.
+```bash
+python3 for_students_eval.py --pred_file <your prediction csv file> --gt_file <ground truth csv file>
+```
+
+# Submission Rules
+### Deadline
+110/1/18 (Tue.) 23:59 (GMT+8)
+    
 # Q&A
 If you have any problems related to Final Project, you may
 - Use TA hours
