@@ -32,7 +32,7 @@ The shell script will automatically download the dataset and store the data in a
 ### Evaluation Code
 In the starter code of this repository, we have provided a python script for evaluating the results for this project. For Linux users, use the following command to evaluate the results.
 ```bash
-python3 for_students_eval.py --pred_file <your prediction csv file> --gt_file <ground truth csv file>
+python3 for_students_eval.py --pred_file <path to your prediction csv file> --gt_file <path to the ground-truth csv file>
 ```
 
 # Submission Rules
