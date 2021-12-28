@@ -14,7 +14,7 @@ To start working on this final project, you should clone this repository into yo
   
 Note that you should replace `<team_name>` with your own team name.
 
-For more details, please click [this link]() to view the slides of Final Project - Skull Fracture Detection. **Note that video and introduction pdf files for final project can be accessed in your NTU COOL.**
+For more details, please click [this link](https://drive.google.com/drive/folders/13PQuQv4dllmdlA7lJNiLDiZ7gOxge2oJ?usp=sharing) to view the slides of Final Project - Skull Fracture Detection. **Note that video and introduction pdf files for final project can be accessed in your NTU COOL.**
 
 ### Dataset
 In the starter code of this repository, we have provided a shell script for downloading and extracting the dataset for this assignment. For Linux users, simply use the following command.
