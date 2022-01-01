@@ -20,7 +20,7 @@ For more details, please click [this link](https://drive.google.com/drive/folder
 In the starter code of this repository, we have provided a shell script for downloading and extracting the dataset for this assignment. For Linux users, simply use the following command.
 
     bash ./get_dataset.sh
-The shell script will automatically download the dataset and store the data in a folder called `skull`. Note that this command by default only works on Linux. If you are using other operating systems, you should download the dataset from [this link](https://drive.google.com/file/d/1dKWCyios4wyUWmyNP72BFE5dVp2uYXIN/view?usp=sharing) and unzip the compressed file manually.
+The shell script will automatically download the dataset and store the data in a folder called `skull`. Note that this command by default only works on Linux. If you are using other operating systems, you should download the dataset from [this link](https://www.dropbox.com/s/yp39kgda1kqzdvu/skull.zip?dl=0) and unzip the compressed file manually.
 
 > ⚠️ ***IMPORTANT NOTE*** ⚠️  
 > 1. Please do not disclose the dataset! Also, do not upload your get_dataset.sh to your (public) Github.
